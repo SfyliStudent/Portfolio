@@ -11,17 +11,14 @@ const navLinks = [
     path: "#about",
   },
   {
-    title: "Projects",
+    title: "Projets",
     path: "#projects",
   },
   {
     title: "Veille",
     path: "./Veille",
   },
-  {
-    title: "Contact",
-    path: "#contact",
-  },
+  
   {
     title: "Stages",
     path: "#",
@@ -30,6 +27,11 @@ const navLinks = [
     title: "Ateliers",
     path: "#",
   },
+  {
+    title: "Contact",
+    path: "#contact",
+  },
+  
 ];
 
 const Navbar = () => {

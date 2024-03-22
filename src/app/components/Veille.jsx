@@ -16,13 +16,14 @@ function Veille() {
     }, []);
     return (
        <div>
-        
+        <br />
+        <br />
         <section className="text-white" id="veille">
-        <div class="flex items-center justify-center min-h-screen">
-          <h1 className="text-4xl font-bold text-white mb-4">Veille technologique</h1>
-          
+        <div class="flex items-center justify-center ">
+          <h1 className="text-4xl font-bold text-white mb-4">Veille technologique</h1>         
           </div>
           </section> 
+          <br />
           <h2 className="text-xl font-bold text-white my-2">L'intelligence artificielle</h2>
           <br />
           <h3 className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">Qu'est-ce qu'une veille technologique ?</h3>
